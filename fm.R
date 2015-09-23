@@ -1,5 +1,5 @@
 #In this exercise, we apply the Fama-MacBeth methodology by using 360 monthly excess returns for market and 456 stocks. Fama and MacBeth (1973) suggest a three-steps approach to test the beta risk-return relationship. 
-
+#
 #import data from csv
 setwd("/Users/abusung/Dropbox/Abu's Dropbox/R_practice/R")
 mydata = read.csv("FM.csv")
